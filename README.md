@@ -1,9 +1,9 @@
 # GSoC 2026 Proposal -- Music Blocks Maintenance
 
-**Organization:** Sugar Labs
-**Project:** Music Blocks Maintenance
-**Mentors:** Walter Bender, Om Santosh Suneri
-**Length:** 150 hours (Medium, 12 weeks)
+- **Organization:** Sugar Labs
+- **Project:** Music Blocks Maintenance
+- **Mentors:** Walter Bender, Om Santosh Suneri
+- **Length:** 150 hours (Medium, 12 weeks)
 
 ---
 
