@@ -21,7 +21,7 @@
 
 ## Proposal
 
-👉 [View Full Proposal (PDF)](./GSoC-Proposal.pdf)
+👉 [View Full Proposal (PDF)](./GSoC_Proposal.pdf)
 
 ---
 
